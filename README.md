@@ -6,3 +6,4 @@
 
 ㄴ 자기최면인가요?
 
+<img width="600" height="933" alt="image" src="https://github.com/user-attachments/assets/d6be42e1-4872-4e97-93b1-5fa6f95f419d" />
