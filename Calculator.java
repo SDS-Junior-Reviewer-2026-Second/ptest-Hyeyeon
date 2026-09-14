@@ -1,8 +1,5 @@
-import java.io.*;
-
-
 public class Calculator {
-    public int result = 0;
+    private int result = 0;
 
     public void plus(int a, int b) {
         result = a + b;
